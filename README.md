@@ -40,13 +40,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
 
-### GitHub activity
-
-<p>
-  <img height="165" alt="Eduard's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=edwardgushchin&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardgushchin&layout=compact&theme=github_dark_dimmed&hide_border=true">
-</p>
-
 ### Contact
 
 - Telegram: [@eduardgushchin](https://t.me/eduardgushchin)
