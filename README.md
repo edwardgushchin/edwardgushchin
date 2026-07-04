@@ -1,30 +1,31 @@
-<div align="center">
-  <a href="https://github.com/edwardgushchin">
-    <img alt="Eduard Gushchin - C# developer building developer tools, SDL3 tooling, native interop, and automation." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Eduard+Gushchin;C%23+developer+building+developer+tools;SDL3+tooling+%2F+native+interop;.NET+runtime+infrastructure;Agent-native+development+workflows">
-  </a>
-</div>
+<h1 align="center">👋 Hi, I'm Eduard Gushchin</h1>
+
+---
 
 <p align="center">
-  <a href="https://github.com/edwardgushchin?tab=repositories">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-edwardgushchin-2f81f7?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://t.me/eduardgushchin">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@eduardgushchin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="mailto:eduardgushchin@yandex.ru">
-    <img alt="Email" src="https://img.shields.io/badge/Email-eduardgushchin%40yandex.ru-8b949e?style=for-the-badge&logo=maildotru&logoColor=white">
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=edwardgushchin&style=for-the-badge&color=2f81f7">
+  <b>C# / .NET / SDL3 Developer Tooling</b><br>
+  🛠️ Native Interop • Runtime APIs • Automation • Agent-native Workflows
 </p>
 
-```text
-edwardgushchin@github
----------------------
-Role:      C# developer
-Focus:     SDL3, native interop, developer tooling, automation
-Main:      SDL3-CS / Electron2D
-Mode:      small cores, clear APIs, repeatable developer workflows
-```
+<p align="center">
+  <a href="https://t.me/eduardgushchin">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@eduardgushchin-26A5E4?style=flat&logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:eduardgushchin@yandex.ru">
+    <img alt="Email" src="https://img.shields.io/badge/Email-eduardgushchin%40yandex.ru-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/edwardgushchin?tab=repositories">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@edwardgushchin-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/edwardgushchin/SDL3-CS">
+    <img alt="SDL3-CS" src="https://img.shields.io/badge/Project-SDL3--CS-2f81f7?style=flat&logo=github&logoColor=white">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=edwardgushchin&style=flat&color=2f81f7">
+</p>
+
+💻 I'm a C# developer focused on developer tooling, native interop, and runtime infrastructure. I build C# bindings, small runtime layers, and automation that make low-level APIs easier to use from .NET.
+
+💡 I like turning complex systems into clear APIs, reliable workflows, and maintainable tools.
 
 ### Now
 
