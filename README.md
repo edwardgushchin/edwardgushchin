@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Eduard Gushchin</h1>
 
----
-
 <p align="center">
   <b>C# / .NET / SDL3 Developer Tooling</b><br>
   🛠️ Native Interop • Runtime APIs • Automation • Agent-native Workflows
@@ -17,10 +15,6 @@
   <a href="https://github.com/edwardgushchin?tab=repositories">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@edwardgushchin-181717?style=flat&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/edwardgushchin/SDL3-CS">
-    <img alt="SDL3-CS" src="https://img.shields.io/badge/Project-SDL3--CS-2f81f7?style=flat&logo=github&logoColor=white">
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=edwardgushchin&style=flat&color=2f81f7">
 </p>
 
 💻 I'm a C# developer focused on developer tooling, native interop, and runtime infrastructure. I build C# bindings, small runtime layers, and automation that make low-level APIs easier to use from .NET.
@@ -57,8 +51,8 @@
 ### Metrics
 
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img alt="GitHub metrics for edwardgushchin" width="100%" src="https://metrics.lecoq.io/edwardgushchin?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&config.timezone=Europe%2FMoscow">
+  <a href="https://github.com/edwardgushchin">
+    <img alt="Eduard Gushchin's GitHub Statistics" src="assets/github-statistics.svg">
   </a>
 </p>
 
