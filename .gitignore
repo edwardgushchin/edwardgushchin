@@ -1,0 +1,5 @@
+# Keep the public profile repository minimal.
+*
+
+!README.md
+!.gitignore
