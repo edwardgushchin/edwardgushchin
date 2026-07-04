@@ -1,8 +1,8 @@
-<h1 align="center">Eduard Gushchin</h1>
-
-<p align="center">
-  <b>C# developer building game engines, SDL3 tooling, and developer automation.</b>
-</p>
+<div align="center">
+  <a href="https://github.com/edwardgushchin">
+    <img alt="Eduard Gushchin - C# developer building game engines, SDL3 tooling, and developer automation." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Eduard+Gushchin;C%23+developer+building+game+engines;SDL3+tooling+%2F+native+interop;Agent-native+development+workflows">
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/edwardgushchin?tab=repositories">
@@ -11,35 +11,57 @@
   <a href="https://t.me/eduardgushchin">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@eduardgushchin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=edwardgushchin&style=for-the-badge&color=2f81f7">
 </p>
 
----
+```text
+edwardgushchin@github
+---------------------
+Role:      C# developer
+Focus:     game engines, SDL3, native interop, tooling
+Main:      Electron2D / SDL3-CS
+Mode:      small cores, clear APIs, repeatable developer workflows
+```
 
-### What I work on
+### Now
 
-- Game engine architecture, rendering, and cross-platform runtime code.
-- C# bindings for native libraries, especially SDL3 and low-level interop.
-- Developer tools, automation, and agent-native workflows.
+- Building [Electron2D](https://github.com/edwardgushchin/Electron2D), an agent-native cross-platform 2D game engine.
+- Maintaining [SDL3-CS](https://github.com/edwardgushchin/SDL3-CS), a C# wrapper for SDL3.
+- Exploring engine tooling, asset pipelines, editor workflows, and automation around game development.
 
-### Featured projects
+### Favorite Tech
 
-| Project | Focus |
-| --- | --- |
-| [Electron2D](https://github.com/edwardgushchin/Electron2D) | Agent-native, cross-platform 2D game engine. |
-| [SDL3-CS](https://github.com/edwardgushchin/SDL3-CS) | C# wrapper for SDL3. |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="C#, .NET, C++, C, Git, GitHub, GitHub Actions, Visual Studio, VS Code, CMake, PowerShell, Windows, Linux" src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,git,github,githubactions,visualstudio,vscode,cmake,powershell,windows,linux&theme=dark&perline=13">
+  </a>
+</p>
 
-### Toolbox
+### Projects
 
-<p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="SDL3" src="https://img.shields.io/badge/SDL3-17355A?style=flat-square">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+| Project | What it is | Status |
+| --- | --- | --- |
+| [SDL3-CS](https://github.com/edwardgushchin/SDL3-CS) | C# wrapper for SDL3, focused on .NET and game-development interop. | ![stars](https://img.shields.io/github/stars/edwardgushchin/SDL3-CS?style=flat-square&label=stars&color=2f81f7) ![forks](https://img.shields.io/github/forks/edwardgushchin/SDL3-CS?style=flat-square&label=forks&color=8b949e) |
+| [Electron2D](https://github.com/edwardgushchin/Electron2D) | Agent-native, cross-platform 2D game engine. | ![stars](https://img.shields.io/github/stars/edwardgushchin/Electron2D?style=flat-square&label=stars&color=2f81f7) ![language](https://img.shields.io/github/languages/top/edwardgushchin/Electron2D?style=flat-square&color=239120) |
+
+### Engineering Notes
+
+- I like APIs that make the fast path obvious and the unsafe path explicit.
+- I prefer small runtime layers that can be tested, profiled, and replaced independently.
+- I care about tooling because engine code is only useful when the workflow around it is reliable.
+
+### Metrics
+
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img alt="GitHub metrics for edwardgushchin" width="100%" src="https://metrics.lecoq.io/edwardgushchin?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&config.timezone=Europe%2FMoscow">
+  </a>
 </p>
 
 ### Contact
 
-- Telegram: [@eduardgushchin](https://t.me/eduardgushchin)
+<p>
+  <a href="https://t.me/eduardgushchin">
+    <img alt="Telegram" src="https://img.shields.io/badge/telegram-@eduardgushchin-26A5E4?style=flat-square&logo=telegram&logoColor=white">
+  </a>
+</p>
