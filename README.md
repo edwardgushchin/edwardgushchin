@@ -13,7 +13,7 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 - [Electron2D](https://github.com/edwardgushchin/Electron2D) — An agent-native, cross-platform 2D game engine for .NET.
 
 🌸 Developer tools
-- [TaskPact](https://github.com/edwardgushchin/TaskPact) — Local task management for software projects, where agents do the work and humans control publication.
+- [TaskPact](https://github.com/edwardgushchin/TaskPact) — An agent-native Kanban task board for software projects.
 
 🌸 OpenWrt
 - [luci-app-zapret2](https://github.com/edwardgushchin/luci-app-zapret2) — A minimal LuCI panel for `bol-van/zapret2` on OpenWrt and GL.iNet routers.
