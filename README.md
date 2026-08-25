@@ -15,5 +15,8 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 🌸 Developer tools
 - [TaskPact](https://github.com/edwardgushchin/TaskPact) — An agent-native Kanban task board for software projects.
 
+🌸 Linux desktop
+- [GNOME macOS Dock](https://github.com/edwardgushchin/gnome-macos-dock) — A reproducible macOS-inspired GNOME dock with real blur, per-monitor behavior, hover motion, and a curated WhiteSur icon theme.
+
 🌸 OpenWrt
 - [luci-app-zapret2](https://github.com/edwardgushchin/luci-app-zapret2) — A minimal LuCI panel for `bol-van/zapret2` on OpenWrt and GL.iNet routers.
