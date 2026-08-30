@@ -14,6 +14,7 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 
 🌸 Developer tools
 - [TaskPact](https://github.com/edwardgushchin/TaskPact) — An agent-native Kanban task board for software projects.
+- [Codex Worklog](https://github.com/edwardgushchin/codex-worklog) — A local Codex plugin that automatically records what changed, when, and why in an append-only Markdown worklog.
 
 🌸 Linux desktop
 - [GNOME macOS Dock](https://github.com/edwardgushchin/gnome-macos-dock) — A reproducible macOS-inspired GNOME dock with real blur, per-monitor behavior, hover motion, and a curated WhiteSur icon theme.
