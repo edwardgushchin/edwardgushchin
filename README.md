@@ -29,4 +29,3 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 🌸 OpenWrt
 
 - [CyberRouter](https://github.com/edwardgushchin/CyberRouter) — A recoverable OpenWrt home network with encrypted Flint 2 snapshots, Xray, zapret2, mobile backup, and verified restore tools.
-- [luci-app-zapret2](https://github.com/edwardgushchin/luci-app-zapret2) — A minimal LuCI panel for `bol-van/zapret2` on OpenWrt and GL.iNet routers.
