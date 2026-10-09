@@ -22,10 +22,6 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 - [TaskPact](https://github.com/edwardgushchin/TaskPact) — An agent-native Kanban task board for software projects.
 - [Codex Worklog](https://github.com/edwardgushchin/codex-worklog) — A local Codex plugin that automatically records what changed, when, and why in an append-only Markdown worklog.
 
-🌸 Linux desktop
-
-- [stillglass-desktop](https://github.com/edwardgushchin/stillglass-desktop) — A coherent GNOME desktop maintained as focused downstream layers over current upstream components.
-
 🌸 OpenWrt
 
 - [CyberRouter](https://github.com/edwardgushchin/CyberRouter) — A recoverable OpenWrt home network with encrypted Flint 2 snapshots, Xray, zapret2, mobile backup, and verified restore tools.
