@@ -19,9 +19,5 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 
 🌸 Developer tools
 
-- [TaskPact](https://github.com/edwardgushchin/TaskPact) — An agent-native Kanban task board for software projects.
+- [AI-Taskboard](https://github.com/edwardgushchin/AI-Taskboard) — An agent-native Kanban task board for software projects.
 - [Codex Worklog](https://github.com/edwardgushchin/codex-worklog) — A local Codex plugin that automatically records what changed, when, and why in an append-only Markdown worklog.
-
-🌸 OpenWrt
-
-- [CyberRouter](https://github.com/edwardgushchin/CyberRouter) — A recoverable OpenWrt home network with encrypted Flint 2 snapshots, Xray, zapret2, mobile backup, and verified restore tools.
