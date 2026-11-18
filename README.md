@@ -14,10 +14,10 @@ You can reach me on [Telegram](https://t.me/eduardgushchin) or by [email](mailto
 
 🌸 Game development
 
-- [SDL3-CS](https://github.com/edwardgushchin/SDL3-CS) — Modern C# bindings and native NuGet packages for SDL3 and its companion libraries.
+- [SDL3 C#](https://github.com/edwardgushchin/SDL3-CS) — Modern C# bindings and native NuGet packages for SDL3 and its companion libraries.
 - [Electron2D](https://github.com/edwardgushchin/Electron2D) — An agent-native, cross-platform 2D game engine for .NET.
 
 🌸 Developer tools
 
-- [AI-Taskboard](https://github.com/edwardgushchin/AI-Taskboard) — An agent-native Kanban task board for software projects.
+- [AI Taskboard](https://github.com/edwardgushchin/AI-Taskboard) — An agent-native Kanban task board for software projects.
 - [Codex Worklog](https://github.com/edwardgushchin/codex-worklog) — A local Codex plugin that automatically records what changed, when, and why in an append-only Markdown worklog.
