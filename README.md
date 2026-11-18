@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-header.png" alt="Pixel-art cat in an orange miner hood using a vintage computer" width="820">
-</p>
-
 ### Hi, I'm Eduard
 
 I'm a C#/.NET developer working across game development, native interop, developer tools, Linux desktop integration, and networking.
